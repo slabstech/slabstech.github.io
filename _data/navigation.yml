@@ -1,0 +1,8 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Projects
+  url: /projects/
+- title: Contact Us
+  url: /contact/
