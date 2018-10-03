@@ -86,16 +86,15 @@ defaults:
       share: true
 
 # Site Author
-author: sachinsshetty
-  name: "sachin"
-  picture: #
-  email: #
+author:
+  name:
+  picture:
+  email:
   twitter:
   links:
     - title:
-      url: sachinsshetty.github.io
-      icon: #
-
+      url:
+      icon:
 # Footer Links
 footer_links:
   - title: Feed
