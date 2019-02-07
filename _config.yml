@@ -17,7 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "S Labs"
-description: "Smart City Project Consultants"
+description: "Sustainable Ideas and Solutions"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: http://slabs.tech
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -34,7 +34,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: slabs# site's Twitter username, e.g. "mmistakes"
+  username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
