@@ -19,7 +19,7 @@ locale: en-US
 title: "S Labs"
 description: "Sustainable Ideas and Solutions"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: http://slabs.tech
+url: https://slabs.tech
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -30,11 +30,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: slabstech
 
 # Liquid
 liquid:
@@ -85,16 +82,6 @@ defaults:
       layout: post
       share: true
 
-# Site Author
-author:
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
 # Footer Links
 footer_links:
   - title: Feed

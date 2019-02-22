@@ -1,8 +1,10 @@
 # Sample site navigation bar links
 
-- title: Projects
-  url: /projects/
-- title: Blog
-  url: /blog/
+- title: Education
+  url: /education/
+- title: Agriculture
+  url: /agri/
+- title: Space
+  url: /space/
 - title: Contact Us
   url: /contact/
