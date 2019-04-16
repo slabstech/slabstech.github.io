@@ -1,10 +1,6 @@
 # Sample site navigation bar links
 
-- title: Education
-  url: /education/
-- title: Agriculture
-  url: /agri/
-- title: Space
-  url: /space/
+- title: Blog
+  url: /blog/
 - title: Contact Us
   url: /contact/
