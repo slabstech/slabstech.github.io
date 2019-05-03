@@ -5,7 +5,7 @@ excerpt: 'Origin Stories'
 search_omit: true
 ---
 
-Custom Solutions for Smart City Projects
+Sustainable Solutions for Smart City Projects
 
 <ul class="post-list">
 {% for post in site.categories.blog %}
