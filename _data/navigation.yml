@@ -1,7 +1,12 @@
 # Sample site navigation bar links
 
+
+- title: ACME
+  url: /acme/
+
 - title: Blog
   url: /blog/
+
 - title: Art
   url: /art/
 
