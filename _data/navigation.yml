@@ -1,8 +1,8 @@
 # Sample site navigation bar links
 
 
-- title: ACME
-  url: /acme/
+- title: ACE
+  url: /acme-mars/
 
 - title: Blog
   url: /blog/
