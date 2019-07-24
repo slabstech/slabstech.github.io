@@ -53,3 +53,8 @@ aa. --
 bb. using an off the shelp low cost drone for prototyping drone operations
 
 cc. using the lightweight drone to carry additional loads
+
+
+---------
+
+Initially we may have to survey land owners requirement in and around Kuruvinkoppa. The details can be collected at Tahshildar office or not need be checked with appa. Also pesticides are mixed in drinking water tanks which caused health problem knowingly or unknowingly.
