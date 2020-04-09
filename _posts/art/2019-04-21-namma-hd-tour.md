@@ -23,4 +23,4 @@ Namma Huballi Dharwada
  <br>
  <br>
 
-<a href="https://thehdtour.com/">Visit Website</a>
+<a href="https://slabs.tech/thehdtour.com/">Visit Website</a>

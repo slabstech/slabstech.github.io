@@ -11,4 +11,4 @@ date: 2019-04-21T08:08:50-04:00
 
 Visit the site to be Inspired by Pure Magic
 
-[Uttering Strokes](https://utteringstrokes.com)
+[Uttering Strokes](https://slabs.tech/utteringstrokes.com/)

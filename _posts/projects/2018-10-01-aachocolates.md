@@ -15,4 +15,4 @@ A & A Chocolates are makers of delectable of handmade chocolates. They required 
 
 Checkout the working demo at [A & A Chocolates](https://aachocolates.in) .
 
-Send mail to support(at)slabs(dot)tech for any queries .
+Send mail to info(at)slabs(dot)tech for any queries .

@@ -11,6 +11,6 @@ date: 2019-05-02T08:08:50-04:00
 
 The Easiest way to the heart is food
 
-Get the secrets at 
+Get the secrets at
 
-[Ammana Aduge](https://ammanaaduge.com)
+[Ammana Aduge](https://slabs.tech/ammanaaduge.com/)
