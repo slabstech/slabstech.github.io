@@ -6,10 +6,7 @@ search_omit: true
 ---
 
 #### Any queries :
-Please send mail to info(at)slabs(dot)tech
-
-#### Office Timing :
-6pm to 8pm IST
+Please send mail to slabs(dot)tech(at)gmail(dot)com
 
 #### Phone :
 

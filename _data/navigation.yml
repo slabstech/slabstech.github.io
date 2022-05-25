@@ -1,9 +1,5 @@
 # Sample site navigation bar links
 
-
-- title: ACE
-  url: /ace-mars/
-
 - title: Blog
   url: /blog/
 

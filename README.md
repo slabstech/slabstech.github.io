@@ -3,5 +3,13 @@
 
 ### Portfolio site of S Labs Solutions
 
+Helping Dev's build Fast, Clean, Secure and Robust Features.
 
-Thanks to Michael Rose for the [So Simple -  Jekyll Plugin](https://mmistakes.github.io/minimal-mistakes/)
+* TechBlogs
+* Plugin'S
+* Sample Code 
+* Consulation via Queries
+
+
+
+Theme Courtesy- Michael Rose [So Simple -  Jekyll Plugin](https://mmistakes.github.io/minimal-mistakes/)
