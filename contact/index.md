@@ -6,9 +6,7 @@ search_omit: true
 ---
 
 #### Any queries :
-Please send mail to slabs(dot)tech(at)gmail(dot)com
-
-#### Phone :
+Please send mail to slabstech(dot)soln(at)gmail(dot)com
 
 #### Address :
 S Labs  Solutions,
