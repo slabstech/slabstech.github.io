@@ -5,10 +5,10 @@
 
 Helping Dev's build Fast, Clean, Secure and Robust Features.
 
-* TechBlogs
-* Plugin'S
+* Technology Blog
+* Plugin's
 * Sample Code 
-* Consulation via Queries
+* Consultation via Queries
 
 
 
