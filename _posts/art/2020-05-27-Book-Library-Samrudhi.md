@@ -18,4 +18,4 @@ Samrudhi : Exclusive Book Lending Library in Hubballi
 
 * Curated Reading List
 
-* visit website : (https://slabs.tech/samrudhi)
+* visit website : (https://slabstech.github.io/samrudhi)

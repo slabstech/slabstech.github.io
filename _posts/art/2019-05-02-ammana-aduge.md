@@ -13,4 +13,4 @@ The Easiest way to the heart is food
 
 Get the secrets at
 
-[Ammana Aduge](https://slabs.tech/ammanaaduge.com/)
+[Ammana Aduge](https://slabstech.github.io/food_vlog/)
