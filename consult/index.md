@@ -4,17 +4,10 @@ title: Consult
 search_omit: true
 ---
 
-
-
-* Charge 50 euro per hour for discussion
-* 100 euro per hour for implementation, minimum project is 10 hrs.
-
-* Discussions via Email/Zoom/Google Meet.
-
-* To be pre-paid consultation fees before meeting starts
+* Consultation only via Email/Zoom/Google Meet.
 
 #### Any queries :
-Please send mail to slabstech(dot)soln(at)gmail(dot)com
+Please send mail to info(at)slabstech(dot)com
 
 #### Address :
 S Labs  Solutions,
