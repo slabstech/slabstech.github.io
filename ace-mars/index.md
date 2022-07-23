@@ -9,9 +9,9 @@ Autonomous Construction Engineering in Mars Environment
 
 * Objective : Occupy Mars
 
-* Use Case : Elon solved the logistics problem of getting to Mars. How will humans settle in a hostile environment ?
+* Use Case : How will humans settle in a hostile environment ?
 
-Thats where "ACE-MARS" come to the picture, building the basic blocks for survival.
+That's where "ACE-MARS" come to the picture, building the basic blocks for survival.
 
 * History : Relive the Space Race since Sputnik in 21st century
 
