@@ -2,8 +2,8 @@
 layout: post
 title: "Namma HD Tour"
 excerpt: "travel to the heartland of Poets and Warriors"
-categories: art
-tags: [ art ]
+categories: archived
+tags: [ archived ]
 
 date: 2019-04-21T08:08:50-04:00
 
