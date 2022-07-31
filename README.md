@@ -1,4 +1,4 @@
-# [S Labs Solutions](https://slabs.tech/)
+# [S Labs Solutions](https://slabstech.com/)
 
 
 ### Portfolio site of S Labs Solutions
