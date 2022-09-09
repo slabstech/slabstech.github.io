@@ -17,3 +17,7 @@ S Labs Solutions celebrates Hacktoberfest 2022
 * Lean - Containerized Microservices
 * Secure - DevSecOps tested with cifuzz
 
+
+
+* Win Cool Swag from Companies All over the world
+  * [Camunda](https://camunda.com/hacktoberfest2022/)
