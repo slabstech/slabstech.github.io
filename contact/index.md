@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consult
+title: Contact
 search_omit: true
 ---
 
@@ -8,6 +8,10 @@ search_omit: true
 
 #### Any queries :
 Please send mail to info(at)slabstech(dot)com
+
+* To order Book and get quote
+  * Add "Book - BookName,  Quantity - Number, Location - Address" in Subject Line.
+  * Ex - "Book - Dark Light, Quantity - 2, Location - Bengaluru, India "
 
 #### Address :
 S Labs  Solutions,
