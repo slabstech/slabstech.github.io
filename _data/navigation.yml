@@ -1,7 +1,12 @@
 # Sample site navigation bar links
 
+
 - title: Blog
   url: /blog/
+
+
+- title: Books
+  url: /books/
 
 - title: Contact
   url: /contact/
