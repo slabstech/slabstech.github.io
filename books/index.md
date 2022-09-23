@@ -16,12 +16,6 @@ P.S - Paperback and Hardbound versions of the books are available on Demand.
 
 Contact us at [https://slabstech.com/contact/](https://slabstech.com/contact/)
 
-<!--
-| Expedition          | Poem      | [PDF](https://gaganyatri.com/assets/pdf/exp56_vol_1.PDF)      | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-exp56.md %}) | [Ebook](https://amzn.to/3N5JcmY)| 7 Jun 2019     |
-| Why                 | Novel      | [PDF](https://gaganyatri.com/assets/pdf/why_vol_1.PDF)    | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-20-why.md %})    | [Ebook](https://amzn.to/2PUILxX)  | 22 Dec 2018    |
-| ಅಲೆಮಾರಿ / Wandern    | Travelogue | [PDF](https://gaganyatri.com/assets/pdf/travel_vol_1.PDF) | [Link]({{ site.baseurl }}{% link _posts/books/publish/2019-03-29-travel.md %}) | [Ebook](https://amzn.to/312nYzJ)  | 7 Jun 2019     |
--->
-
 <!-- 
 Book Rank - 
 Dark Light - Sep 15 2022
