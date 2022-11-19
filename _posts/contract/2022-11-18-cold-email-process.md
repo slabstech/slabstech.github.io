@@ -30,8 +30,29 @@ Dear Sir/Madam,
   
 
 Best Regards,
-Sachin Shetty,
-Engineer,
+LMN
+S Labs Solutions,
+Hubballi, 580021
+web : https://slabstech.com
+email : info(at)slabstech(dot)com
+
+
+
+---
+
+Hello Sir/Madam,
+
+I am XYZ from S Labs, Hubballi
+
+I wanted to discuss with you about Technology provider for the planned/under construction
+project at ABC Location.
+
+Please provide your email address, so that we can send you a draft proposal of the Tech project.
+
+Request you to please provide an appointment to discuss the project at your earliest convenience.
+
+Best Regards,
+LMN
 S Labs Solutions,
 Hubballi, 580021
 web : https://slabstech.com
