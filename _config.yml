@@ -2,7 +2,7 @@
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "S Labs Tech"
+title: "S Labs Solutions"
 description: "Day 2 for Mars"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://slabstech.com
@@ -16,9 +16,6 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-twitter:
-  username: slabssoln
-
 # Liquid
 liquid:
   error_mode: strict
