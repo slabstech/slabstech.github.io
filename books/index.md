@@ -5,10 +5,10 @@ excerpt: "Collections of published books"
 ---
 The stories that mould statues of memories in numerous clay
 
-| Name                | Type      | Download                                               | Published Date |
-|---------------------|-----------|--------------------------------------------------------|----------------|
-| Connecting the Dots | Art       | [PDF](https://slabstech.com/assets/pdf/ctd_vol_1.PDF)  | 19 July 2019   |
-| Gaganyatri          | Biography | [PDF](https://slabstech.com/assets/pdf/gaganyatri.pdf) | 9 Nov 1991     |
+| Name                                                                  | Type      | Published Date |
+|-----------------------------------------------------------------------|-----------|----------------|
+| [Connecting the Dots](https://slabstech.com/assets/pdf/ctd_vol_1.PDF) | Art       | 19 July 2019   |
+| [Gaganyatri](https://slabstech.com/assets/pdf/gaganyatri.pdf)         | Biography | 9 Nov 1991     |
 
 
 
