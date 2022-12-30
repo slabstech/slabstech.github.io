@@ -5,10 +5,10 @@ excerpt: "Collections of published books"
 ---
 The stories that mould statues of memories in numerous clay
 
-| Name                | Type      | Download                                                     | Online                                               | Pay                                               | Published Date |
-|---------------------|-----------|--------------------------------------------------------------|------------------------------------------------------|---------------------------------------------------|----------------|
-| Connecting the Dots | Art       | [PDF](https://slabstech.com/assets/pdf/ctd_vol_1.PDF)        | [Read](https://slabstech.com/connectingthedots.com/) | [5 € ](https://buy.stripe.com/00g3fZf6E5C27Is8wC) | 19 July 2019   |
-| Dark: Light         | Anthology | [PDF](https://slabstech.com/assets/pdf/dark_light_vol_1.PDF) | [Read](https://gaganyatri.com/dark_light)            | [3 €](https://buy.stripe.com/aEUeYH2jS1lMfaU3ch)  | 19 July 2022   |
+| Name                | Type      | Download                                               | Published Date |
+|---------------------|-----------|--------------------------------------------------------|----------------|
+| Connecting the Dots | Art       | [PDF](https://slabstech.com/assets/pdf/ctd_vol_1.PDF)  | 19 July 2019   |
+| Gaganyatri          | Biography | [PDF](https://slabstech.com/assets/pdf/gaganyatri.pdf) | 9 Nov 1991     |
 
 
 
