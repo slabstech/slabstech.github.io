@@ -3,7 +3,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "S Labs Solutions"
-description: "Day 2 for Mars"
+description: "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ 2 ನೇ ದಿನ"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://slabstech.com
 logo: "/images/s_labs_logo.jpg" # path of site logo, e.g. "/images/logo.png"

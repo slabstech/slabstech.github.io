@@ -1,25 +1,18 @@
 ---
 layout: page
-title: "Books/ ಕಾದಂಬರಿ ಪುಸ್ತಕಗಳು"
-excerpt: "Collections of published books"
+title: "ಕಾದಂಬರಿ ಪುಸ್ತಕಗಳು"
+excerpt: "ಪ್ರಕಟಿತ ಪುಸ್ತಕಗಳ ಸಂಗ್ರಹಗಳು"
 ---
-The stories that mould statues of memories in numerous clay
+ಹಲವಾರು ಮಣ್ಣಿನಲ್ಲಿ ನೆನಪುಗಳ ಪ್ರತಿಮೆಗಳನ್ನು ರೂಪಿಸುವ ಕಥೆಗಳು
 
 | Name                                                                  | Type      | Published Date |
 |-----------------------------------------------------------------------|-----------|----------------|
-| [Connecting the Dots](https://slabstech.com/assets/pdf/ctd_vol_1.PDF) | Art       | 19 July 2019   |
-| [Gaganyatri](https://slabstech.com/assets/pdf/gaganyatri.pdf)         | Biography | 9 Nov 1991     |
+| [ಕಲ್ಪನೆಗಳನ್ನು ಸಂಪರ್ಕಿಸಿ](https://slabstech.com/assets/pdf/ctd_vol_1.PDF) | Art       | 19 July 2019   |
+| [ಗಗನ್ ಯಾತ್ರಿ](https://slabstech.com/assets/pdf/gaganyatri.pdf)         | Biography | 9 Nov 1991     |
 
 
 
-P.S - Paperback and Hardbound versions of the books are available on Demand. 
+ಸೂಚನೆ - ಪುಸ್ತಕಗಳ ಪೇಪರ್‌ಬ್ಯಾಕ್ ಮತ್ತು ಹಾರ್ಡ್‌ಬೌಂಡ್ ಆವೃತ್ತಿಗಳು ಬೇಡಿಕೆಯ ಮೇರೆಗೆ ಲಭ್ಯವಿದೆ. 
 
-Contact us at [https://slabstech.com/contact/](https://slabstech.com/contact/)
+ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ [https://slabstech.com/contact/](https://slabstech.com/contact/)
 
-<!-- 
-Book Rank - 
-Dark Light - Sep 15 2022
-907,120 in Books
-7,371 in Anthologies
-425,662 in Foreign Language Fiction
--->
