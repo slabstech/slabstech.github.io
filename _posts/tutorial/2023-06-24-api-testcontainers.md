@@ -7,6 +7,15 @@ tags: [ tutorial ]
 date: 2023-06-24T08:08:50-04:00
 
 ---
+* Task
+  * Build a form validation API for User Registration
+
+* Field Types
+  * String - Name
+  * AlphaNumeric - Username
+  * Date - Birth Date
+  * Regex Match + AlphaNumeric -  Email , Password 
+
 * Steps
   * Generate API documentation with OpenAPI spec using
     * 'org.springdoc:springdoc-openapi-ui'
@@ -18,3 +27,5 @@ date: 2023-06-24T08:08:50-04:00
   * Create test.http with sample inputs for manual verification
 
  [Code available at](https://github.com/slabstech/tutorials/tree/main/api-testcontainer)
+
+* 
