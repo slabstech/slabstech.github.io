@@ -9,7 +9,7 @@ excerpt: "Portfolio with Practical Examples"
 
 * Projects
     * [Robust API endpoints with testcontainers](https://slabstech.com/tutorial/api-testcontainers)
-    * [Rate Limiter API with Authentication using Spring Security and OAuth](https://slabstech.com/tutorials/rate-limiter-api-security)
+    * [Rate Limiter API with Authentication using Resilience4J, Spring Security and OAuth](https://slabstech.com/tutorials/rate-limiter-api-security)
     * FileReader to Kafka Streams processing for Large File Processing
     * Kafka streams setup with docker compose
     * [Secure Containers with jlink and Docker Scout](https://slabstech.com/tutorial/secure-containers-jlink)
