@@ -8,10 +8,20 @@ date: 2023-06-25T08:08:50-04:00
 
 ---
 
-* OAuth
-* Retry Mechanism
-* Api Key
-* Session Management
+For Subscription based SaaS, features are provided to users based on tiers.
+* Free tier with basic features and limited access
+* Standard tier with most features 
+* Pro tier with all features
+
+Availability is handled between tiers using Rate Limiter API.
+
+Based on number of users and usage, Cloud services can be provisioned based on metrics.
+
+* Main concepts
+  * OAuth
+  * Retry Mechanism
+  * Api Key
+  * Session Management
 
 * Reference
   * https://reflectoring.io/rate-limiting-with-springboot-resilience4j/
