@@ -49,6 +49,7 @@ date: 2023-06-24T08:08:50-04:00
     * https://www.baeldung.com/spring-boot-kafka-testing
   * Docker Compose
     * https://java.testcontainers.org/modules/docker_compose/
+    * https://www.baeldung.com/persistence-with-spring-series
 
 <!--
 * Task

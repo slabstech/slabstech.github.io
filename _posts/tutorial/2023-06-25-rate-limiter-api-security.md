@@ -28,3 +28,4 @@ Based on number of users and usage, Cloud services can be provisioned based on m
   * https://resilience4j.readme.io/docs/ratelimiter
   * https://www.baeldung.com/spring-bucket4j
   * https://spring.io/blog/2021/04/05/api-rate-limiting-with-spring-cloud-gateway
+  * https://www.baeldung.com/security-spring
