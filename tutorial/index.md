@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Tutorials - Health Analytics for Xiaomi Mi Band + Google Fit "
+title: "Tutorials -  "
 excerpt: "Portfolio with Practical Examples"
 ---
 
 
-* Goal - Health Analytics for Xiaomi Mi Band + Google Fit
-
 * Projects
+    * Reinforcement Learning -
+      * [Evaluate Models for Tic-Tac-Toe Self learning]()
     * SpringBoot Series
         * [Robust API endpoints with testcontainers](https://slabstech.com/tutorial/api-testcontainers)
         * [Rate Limiter API with Authentication using Resilience4J, Spring Security and OAuth](https://slabstech.com/tutorial/rate-limiter-api-security)
