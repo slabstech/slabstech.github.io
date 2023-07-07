@@ -7,7 +7,7 @@ excerpt: "Portfolio with Practical Examples"
 
 * Projects
     * Reinforcement Learning -
-      * [Evaluate Models for Tic-Tac-Toe Self learning]()
+      * [Evaluate Models for Tic-Tac-Toe Self learning](https://slabstech.com/tutorial/model-evaluation-tic-tac-toe)
     * SpringBoot Series
         * [Robust API endpoints with testcontainers](https://slabstech.com/tutorial/api-testcontainers)
         * [Rate Limiter API with Authentication using Resilience4J, Spring Security and OAuth](https://slabstech.com/tutorial/rate-limiter-api-security)
