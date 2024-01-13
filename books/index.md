@@ -7,11 +7,12 @@ excerpt: "ಪ್ರಕಟಿತ ಪುಸ್ತಕಗಳ ಸಂಗ್ರಹಗ�
 
 | Name                                                           | Type      |
 |----------------------------------------------------------------|-----------|
+| [ಗಗನ್ ಯಾತ್ರಿ](https://slabstech.com/assets/pdf/gaganyatri.pdf) | Philosophy | 
+| [ಅಲೆಮಾರಿ](https://slabstech.com/assets/pdf/alemaari.pdf)   | Travelogue |
 | [ಸೂತ್ರಧಾರಿ](https://slabstech.com/assets/pdf/suthradhari.pdf)  | Art       |
-| [ಗಗನ್ ಯಾತ್ರಿ](https://slabstech.com/assets/pdf/gaganyatri.pdf) | Biography | 
-| [ಕನ್ನಡಿ](https://slabstech.com/assets/pdf/kannadi.pdf)         | Philosophy | 
 | [ಅನ್ನಪೂರ್ಣ](https://slabstech.com/assets/pdf/annapoorna.pdf)   | Recipe | 
-| [ಅಲೆಮಾರಿ](https://slabstech.com/assets/pdf/alemaari.pdf)   | Travelogue | 
+| [ಕನ್ನಡಿ](https://slabstech.com/assets/pdf/kannadi.pdf)         | Philosophy | 
+| [Onwards](https://slabstech.com/assets/pdf/onwards.pdf)   | Philosophy | 
 
 
 ಸೂಚನೆ - ಪುಸ್ತಕಗಳ ಪೇಪರ್‌ಬ್ಯಾಕ್ ಮತ್ತು ಹಾರ್ಡ್‌ಬೌಂಡ್ ಆವೃತ್ತಿಗಳು ಬೇಡಿಕೆಯ ಮೇರೆಗೆ ಲಭ್ಯವಿದೆ. 
