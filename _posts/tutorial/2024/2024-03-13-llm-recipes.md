@@ -1,6 +1,12 @@
-### LLM Recipes
+---
+layout: post
+title: "LLM Recipes - OpenSource & Local Setup"
+excerpt: "Usage of LLM for Everyday use"
+categories: tutorial
+tags: [ tutorial ]
+date: 2024-03-12T08:08:50-04:00
 
-#### Usage of LLM for Everyday use
+---
 
 v1 = Build a ChatGPT like setup on local machine
 
