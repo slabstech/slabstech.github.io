@@ -30,6 +30,7 @@ Perpetual Robotics
 * Strategy
     * Open source Community collaboration with Cutting-edge methods
 * Priorities
+    * LLM Recipes - [llm-recipes](github.com/slabstech/llm-recipes)
     * Project [Bhoomi](https://mangala.earth)
 
 <!--
