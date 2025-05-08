@@ -18,11 +18,10 @@
 - **Open Source Community Collaboration with Cutting-Edge Methods**: We leverage open-source collaboration and cutting-edge technologies to achieve our goals.
 
 ### Priorities
-1. **LLM Recipes** - [llm-recipes](https://github.com/slabstech/llm-recipes)
-2. **Project [Gaganyatri](https://gaganyatri.in)**
-3. **Project [Dhwani - Audiobook Creator](https://slabstech.com/dhwani)**
-4. **Project [Sanjeevini - Medical Transcription Agent](https://sanjeevini.me)**
-
+1. **Project [Dwani - Voice Assistant for All](https://dwani.ai)**
+2. **LLM Recipes** - [llm-recipes](https://github.com/slabstech/llm-recipes)
+3. **Project [Sanjeevini - Medical Transcription](https://sanjeevini.me)**
+4. **Project [Gaganyatri](https://gaganyatri.in)**
 ---
 
 ## ಶಾಶ್ವತ ರೊಬೊಟಿಕ್ಸ್
@@ -42,12 +41,13 @@
 ### ತಂತ್ರ
 - **ಅತ್ಯಾಧುನಿಕ ವಿಧಾನಗಳೊಂದಿಗೆ ಮುಕ್ತ ಮೂಲ ಸಮುದಾಯ ಸಹಯೋಗ**: ನಮ್ಮ ತಂತ್ರವು ಮುಕ್ತ ಮೂಲ ಸಮುದಾಯ ಸಹಯೋಗ ಮತ್ತು ಅತ್ಯಾಧುನಿಕ ವಿಧಾನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.
 
-### ಆದ್ಯತೆಗಳು
-1. **ಯೋಜನೆ [ಭೂಮಿ](https://mangala.earth)**
-
 ---
 
 <!--
+
+### ಆದ್ಯತೆಗಳು
+1. **ಯೋಜನೆ [ಭೂಮಿ](https://mangala.earth)**
+
 * Objectives
 * Culture
 * Values
