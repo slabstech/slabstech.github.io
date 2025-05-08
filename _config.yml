@@ -6,7 +6,7 @@ title: "S Labs Solutions"
 description: "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ 2 ನೇ ದಿನ"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://slabstech.com
-logo: "/images/s_labs_logo.jpg" # path of site logo, e.g. "/images/logo.png"
+logo: "/images/s_labs_logo.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
